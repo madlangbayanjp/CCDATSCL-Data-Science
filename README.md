@@ -1,6 +1,6 @@
 # DATA SCIENCE (CCDATSCL)
 ---
-## This repository will include all of the activities and projects in the course DATA SCIENCE (CCDATSCL)
+## This repository includes all of the activities and projects in the course DATA SCIENCE (CCDATSCL)
 ---
 ### Student Information
 * Name: Joshua Manuel Madlangbayan
